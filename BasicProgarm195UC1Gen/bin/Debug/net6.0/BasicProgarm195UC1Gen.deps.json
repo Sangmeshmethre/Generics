@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BasicProgarm195UC1Gen/1.0.0": {
+        "runtime": {
+          "BasicProgarm195UC1Gen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicProgarm195UC1Gen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

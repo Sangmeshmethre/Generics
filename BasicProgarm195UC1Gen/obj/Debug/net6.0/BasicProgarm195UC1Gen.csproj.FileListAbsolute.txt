@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Generics\UC1\BasicProgarm195UC1Gen\BasicProgarm195UC1Gen\bin\Debug\net6.0\BasicProgarm195UC1Gen.exe
+C:\LFP-195 Batch\Generics\UC1\BasicProgarm195UC1Gen\BasicProgarm195UC1Gen\bin\Debug\net6.0\BasicProgarm195UC1Gen.deps.json
+C:\LFP-195 Batch\Generics\UC1\BasicProgarm195UC1Gen\BasicProgarm195UC1Gen\bin\Debug\net6.0\BasicProgarm195UC1Gen.runtimeconfig.json
+C:\LFP-195 Batch\Generics\UC1\BasicProgarm195UC1Gen\BasicProgarm195UC1Gen\bin\Debug\net6.0\BasicProgarm195UC1Gen.dll
+C:\LFP-195 Batch\Generics\UC1\BasicProgarm195UC1Gen\BasicProgarm195UC1Gen\bin\Debug\net6.0\BasicProgarm195UC1Gen.pdb
+C:\LFP-195 Batch\Generics\UC1\BasicProgarm195UC1Gen\BasicProgarm195UC1Gen\obj\Debug\net6.0\BasicProgarm195UC1Gen.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Generics\UC1\BasicProgarm195UC1Gen\BasicProgarm195UC1Gen\obj\Debug\net6.0\BasicProgarm195UC1Gen.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Generics\UC1\BasicProgarm195UC1Gen\BasicProgarm195UC1Gen\obj\Debug\net6.0\BasicProgarm195UC1Gen.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Generics\UC1\BasicProgarm195UC1Gen\BasicProgarm195UC1Gen\obj\Debug\net6.0\BasicProgarm195UC1Gen.AssemblyInfo.cs
+C:\LFP-195 Batch\Generics\UC1\BasicProgarm195UC1Gen\BasicProgarm195UC1Gen\obj\Debug\net6.0\BasicProgarm195UC1Gen.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Generics\UC1\BasicProgarm195UC1Gen\BasicProgarm195UC1Gen\obj\Debug\net6.0\BasicProgarm195UC1Gen.dll
+C:\LFP-195 Batch\Generics\UC1\BasicProgarm195UC1Gen\BasicProgarm195UC1Gen\obj\Debug\net6.0\refint\BasicProgarm195UC1Gen.dll
+C:\LFP-195 Batch\Generics\UC1\BasicProgarm195UC1Gen\BasicProgarm195UC1Gen\obj\Debug\net6.0\BasicProgarm195UC1Gen.pdb
+C:\LFP-195 Batch\Generics\UC1\BasicProgarm195UC1Gen\BasicProgarm195UC1Gen\obj\Debug\net6.0\BasicProgarm195UC1Gen.genruntimeconfig.cache
+C:\LFP-195 Batch\Generics\UC1\BasicProgarm195UC1Gen\BasicProgarm195UC1Gen\obj\Debug\net6.0\ref\BasicProgarm195UC1Gen.dll
