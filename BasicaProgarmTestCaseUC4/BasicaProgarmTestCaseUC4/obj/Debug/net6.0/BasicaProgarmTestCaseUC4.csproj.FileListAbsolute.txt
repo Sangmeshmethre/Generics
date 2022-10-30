@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Generics\TCUC4\BasicaProgarmTestCaseUC4\BasicaProgarmTestCaseUC4\bin\Debug\net6.0\BasicaProgarmTestCaseUC4.exe
+C:\LFP-195 Batch\Generics\TCUC4\BasicaProgarmTestCaseUC4\BasicaProgarmTestCaseUC4\bin\Debug\net6.0\BasicaProgarmTestCaseUC4.deps.json
+C:\LFP-195 Batch\Generics\TCUC4\BasicaProgarmTestCaseUC4\BasicaProgarmTestCaseUC4\bin\Debug\net6.0\BasicaProgarmTestCaseUC4.runtimeconfig.json
+C:\LFP-195 Batch\Generics\TCUC4\BasicaProgarmTestCaseUC4\BasicaProgarmTestCaseUC4\bin\Debug\net6.0\BasicaProgarmTestCaseUC4.dll
+C:\LFP-195 Batch\Generics\TCUC4\BasicaProgarmTestCaseUC4\BasicaProgarmTestCaseUC4\bin\Debug\net6.0\BasicaProgarmTestCaseUC4.pdb
+C:\LFP-195 Batch\Generics\TCUC4\BasicaProgarmTestCaseUC4\BasicaProgarmTestCaseUC4\obj\Debug\net6.0\BasicaProgarmTestCaseUC4.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Generics\TCUC4\BasicaProgarmTestCaseUC4\BasicaProgarmTestCaseUC4\obj\Debug\net6.0\BasicaProgarmTestCaseUC4.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Generics\TCUC4\BasicaProgarmTestCaseUC4\BasicaProgarmTestCaseUC4\obj\Debug\net6.0\BasicaProgarmTestCaseUC4.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Generics\TCUC4\BasicaProgarmTestCaseUC4\BasicaProgarmTestCaseUC4\obj\Debug\net6.0\BasicaProgarmTestCaseUC4.AssemblyInfo.cs
+C:\LFP-195 Batch\Generics\TCUC4\BasicaProgarmTestCaseUC4\BasicaProgarmTestCaseUC4\obj\Debug\net6.0\BasicaProgarmTestCaseUC4.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Generics\TCUC4\BasicaProgarmTestCaseUC4\BasicaProgarmTestCaseUC4\obj\Debug\net6.0\BasicaProgarmTestCaseUC4.dll
+C:\LFP-195 Batch\Generics\TCUC4\BasicaProgarmTestCaseUC4\BasicaProgarmTestCaseUC4\obj\Debug\net6.0\refint\BasicaProgarmTestCaseUC4.dll
+C:\LFP-195 Batch\Generics\TCUC4\BasicaProgarmTestCaseUC4\BasicaProgarmTestCaseUC4\obj\Debug\net6.0\BasicaProgarmTestCaseUC4.pdb
+C:\LFP-195 Batch\Generics\TCUC4\BasicaProgarmTestCaseUC4\BasicaProgarmTestCaseUC4\obj\Debug\net6.0\BasicaProgarmTestCaseUC4.genruntimeconfig.cache
+C:\LFP-195 Batch\Generics\TCUC4\BasicaProgarmTestCaseUC4\BasicaProgarmTestCaseUC4\obj\Debug\net6.0\ref\BasicaProgarmTestCaseUC4.dll
