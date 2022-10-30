@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Generics\TestCas\BasicProgarm195TC\BasicProgarm195TC\bin\Debug\net6.0\BasicProgarm195TC.exe
+C:\LFP-195 Batch\Generics\TestCas\BasicProgarm195TC\BasicProgarm195TC\bin\Debug\net6.0\BasicProgarm195TC.deps.json
+C:\LFP-195 Batch\Generics\TestCas\BasicProgarm195TC\BasicProgarm195TC\bin\Debug\net6.0\BasicProgarm195TC.runtimeconfig.json
+C:\LFP-195 Batch\Generics\TestCas\BasicProgarm195TC\BasicProgarm195TC\bin\Debug\net6.0\BasicProgarm195TC.dll
+C:\LFP-195 Batch\Generics\TestCas\BasicProgarm195TC\BasicProgarm195TC\bin\Debug\net6.0\BasicProgarm195TC.pdb
+C:\LFP-195 Batch\Generics\TestCas\BasicProgarm195TC\BasicProgarm195TC\obj\Debug\net6.0\BasicProgarm195TC.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Generics\TestCas\BasicProgarm195TC\BasicProgarm195TC\obj\Debug\net6.0\BasicProgarm195TC.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Generics\TestCas\BasicProgarm195TC\BasicProgarm195TC\obj\Debug\net6.0\BasicProgarm195TC.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Generics\TestCas\BasicProgarm195TC\BasicProgarm195TC\obj\Debug\net6.0\BasicProgarm195TC.AssemblyInfo.cs
+C:\LFP-195 Batch\Generics\TestCas\BasicProgarm195TC\BasicProgarm195TC\obj\Debug\net6.0\BasicProgarm195TC.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Generics\TestCas\BasicProgarm195TC\BasicProgarm195TC\obj\Debug\net6.0\BasicProgarm195TC.dll
+C:\LFP-195 Batch\Generics\TestCas\BasicProgarm195TC\BasicProgarm195TC\obj\Debug\net6.0\refint\BasicProgarm195TC.dll
+C:\LFP-195 Batch\Generics\TestCas\BasicProgarm195TC\BasicProgarm195TC\obj\Debug\net6.0\BasicProgarm195TC.pdb
+C:\LFP-195 Batch\Generics\TestCas\BasicProgarm195TC\BasicProgarm195TC\obj\Debug\net6.0\BasicProgarm195TC.genruntimeconfig.cache
+C:\LFP-195 Batch\Generics\TestCas\BasicProgarm195TC\BasicProgarm195TC\obj\Debug\net6.0\ref\BasicProgarm195TC.dll
