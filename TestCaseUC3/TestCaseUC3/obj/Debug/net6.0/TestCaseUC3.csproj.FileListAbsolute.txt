@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Generics\TCUC3\TestCaseUC3\TestCaseUC3\bin\Debug\net6.0\TestCaseUC3.exe
+C:\LFP-195 Batch\Generics\TCUC3\TestCaseUC3\TestCaseUC3\bin\Debug\net6.0\TestCaseUC3.deps.json
+C:\LFP-195 Batch\Generics\TCUC3\TestCaseUC3\TestCaseUC3\bin\Debug\net6.0\TestCaseUC3.runtimeconfig.json
+C:\LFP-195 Batch\Generics\TCUC3\TestCaseUC3\TestCaseUC3\bin\Debug\net6.0\TestCaseUC3.dll
+C:\LFP-195 Batch\Generics\TCUC3\TestCaseUC3\TestCaseUC3\bin\Debug\net6.0\TestCaseUC3.pdb
+C:\LFP-195 Batch\Generics\TCUC3\TestCaseUC3\TestCaseUC3\obj\Debug\net6.0\TestCaseUC3.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Generics\TCUC3\TestCaseUC3\TestCaseUC3\obj\Debug\net6.0\TestCaseUC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Generics\TCUC3\TestCaseUC3\TestCaseUC3\obj\Debug\net6.0\TestCaseUC3.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Generics\TCUC3\TestCaseUC3\TestCaseUC3\obj\Debug\net6.0\TestCaseUC3.AssemblyInfo.cs
+C:\LFP-195 Batch\Generics\TCUC3\TestCaseUC3\TestCaseUC3\obj\Debug\net6.0\TestCaseUC3.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Generics\TCUC3\TestCaseUC3\TestCaseUC3\obj\Debug\net6.0\TestCaseUC3.dll
+C:\LFP-195 Batch\Generics\TCUC3\TestCaseUC3\TestCaseUC3\obj\Debug\net6.0\refint\TestCaseUC3.dll
+C:\LFP-195 Batch\Generics\TCUC3\TestCaseUC3\TestCaseUC3\obj\Debug\net6.0\TestCaseUC3.pdb
+C:\LFP-195 Batch\Generics\TCUC3\TestCaseUC3\TestCaseUC3\obj\Debug\net6.0\TestCaseUC3.genruntimeconfig.cache
+C:\LFP-195 Batch\Generics\TCUC3\TestCaseUC3\TestCaseUC3\obj\Debug\net6.0\ref\TestCaseUC3.dll
