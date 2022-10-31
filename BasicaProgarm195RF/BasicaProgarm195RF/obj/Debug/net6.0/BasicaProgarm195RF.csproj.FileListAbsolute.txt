@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Generics\RF2\BasicaProgarm195RF\BasicaProgarm195RF\bin\Debug\net6.0\BasicaProgarm195RF.exe
+C:\LFP-195 Batch\Generics\RF2\BasicaProgarm195RF\BasicaProgarm195RF\bin\Debug\net6.0\BasicaProgarm195RF.deps.json
+C:\LFP-195 Batch\Generics\RF2\BasicaProgarm195RF\BasicaProgarm195RF\bin\Debug\net6.0\BasicaProgarm195RF.runtimeconfig.json
+C:\LFP-195 Batch\Generics\RF2\BasicaProgarm195RF\BasicaProgarm195RF\bin\Debug\net6.0\BasicaProgarm195RF.dll
+C:\LFP-195 Batch\Generics\RF2\BasicaProgarm195RF\BasicaProgarm195RF\bin\Debug\net6.0\BasicaProgarm195RF.pdb
+C:\LFP-195 Batch\Generics\RF2\BasicaProgarm195RF\BasicaProgarm195RF\obj\Debug\net6.0\BasicaProgarm195RF.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Generics\RF2\BasicaProgarm195RF\BasicaProgarm195RF\obj\Debug\net6.0\BasicaProgarm195RF.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Generics\RF2\BasicaProgarm195RF\BasicaProgarm195RF\obj\Debug\net6.0\BasicaProgarm195RF.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Generics\RF2\BasicaProgarm195RF\BasicaProgarm195RF\obj\Debug\net6.0\BasicaProgarm195RF.AssemblyInfo.cs
+C:\LFP-195 Batch\Generics\RF2\BasicaProgarm195RF\BasicaProgarm195RF\obj\Debug\net6.0\BasicaProgarm195RF.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Generics\RF2\BasicaProgarm195RF\BasicaProgarm195RF\obj\Debug\net6.0\BasicaProgarm195RF.dll
+C:\LFP-195 Batch\Generics\RF2\BasicaProgarm195RF\BasicaProgarm195RF\obj\Debug\net6.0\refint\BasicaProgarm195RF.dll
+C:\LFP-195 Batch\Generics\RF2\BasicaProgarm195RF\BasicaProgarm195RF\obj\Debug\net6.0\BasicaProgarm195RF.pdb
+C:\LFP-195 Batch\Generics\RF2\BasicaProgarm195RF\BasicaProgarm195RF\obj\Debug\net6.0\BasicaProgarm195RF.genruntimeconfig.cache
+C:\LFP-195 Batch\Generics\RF2\BasicaProgarm195RF\BasicaProgarm195RF\obj\Debug\net6.0\ref\BasicaProgarm195RF.dll
